@@ -1,0 +1,11 @@
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\bin\Debug\Car_Racing_Project.exe.config
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\bin\Debug\Car_Racing_Project.exe
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\bin\Debug\Car_Racing_Project.pdb
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.csproj.AssemblyReference.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.Form1.resources
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.Properties.Resources.resources
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.csproj.GenerateResource.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.csproj.CoreCompileInputs.cache
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.exe
+C:\Users\Mustafi\Desktop\HimadWise\C#\Car_Racing_Project\Car_Racing_Project\obj\Debug\Car_Racing_Project.pdb
